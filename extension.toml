@@ -1,0 +1,7 @@
+id = "firefox-quantum-themes"
+name = "Firefox Quantum Themes"
+version = "1.0.1"
+schema_version = 1
+authors = ["beastdestroyer <https://github.com/beastdestroyer>", "devinaxo <https://github.com/devinaxo>"]
+description = "A Zed port of the Firefox Quantum themes for Visual Studio Code, based on Firefox DevTools colors"
+repository = "https://github.com/beastdestroyer/vscode-firefox-quantum-themes"
