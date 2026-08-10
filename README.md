@@ -1,4 +1,4 @@
-# zed-firefox-quantum-themes
+# zed-firefox-quantum-theme
 A [Zed](https://zed.dev) port of the Firefox Quantum themes for Visual Studio Code, based on Firefox DevTools colors
 
 ## Preview
